@@ -1,0 +1,4 @@
+The node number of this graph is: 104
+The edge number of this graph is: 114
+The diameter of this graph is: 6
+The average shortest path length of this graph is: 4.795743091859597
